@@ -77,8 +77,14 @@ I plan to enhance the game with:
 - High‑score system  
 
 ---
+## 🧪 Testing Documentation
 
-## 👤 About Me
+This project includes a full test plan covering functionality, usability, and compliance testing.  
+The test plan includes 12 test cases with expected results, actual results, and pass/fail outcomes.
+
+You can view the complete testing documentation here:  
+**/docs/test-plan.md**
+
 
 ## 👤 About Me
 
